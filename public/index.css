@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 60px 20px;
+  font-family: 'Lato', sans-serif;
+  background-color: #f3f1f1;
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #292929;
+  font-weight: 900;
+  padding: 0 30px;
+}
+
+h2 {
+  text-decoration: none;
+  text-decoration-line: none;
+  color: #F8CC47;
+  text-shadow: 0px 1px 0 rgb(62, 106, 173), 0px -1px 0 rgb(62, 106, 173), 1px 0px 0 rgb(62, 106, 173), -1px 0px 0 rgb(62, 106, 173), 1px 1px 0 rgb(62, 106, 173), 1px -1px 0 rgb(62, 106, 173), -1px 1px 0 rgb(62, 106, 173), -1px -1px 0 rgb(62, 106, 173), 0px 2px 0 rgb(62, 106, 173), 0px -2px 0 rgb(62, 106, 173), 2px 0px 0 rgb(62, 106, 173), -2px 0px 0 rgb(62, 106, 173), 2px 2px 0 rgb(62, 106, 173), 2px -2px 0 rgb(62, 106, 173), -2px 2px 0 rgb(62, 106, 173), -2px -2px 0 rgb(62, 106, 173), 0px 3px 0 rgb(62, 106, 173), 0px -3px 0 rgb(62, 106, 173), 3px 0px 0 rgb(62, 106, 173), -3px 0px 0 rgb(62, 106, 173), 3px 3px 0 rgb(62, 106, 173), 3px -3px 0 rgb(62, 106, 173), -3px 3px 0 rgb(62, 106, 173), -3px -3px 0 rgb(62, 106, 173);
+  -webkit-text-shadow: 0px 1px 0 rgb(62, 106, 173), 0px -1px 0 rgb(62, 106, 173), 1px 0px 0 rgb(62, 106, 173), -1px 0px 0 rgb(62, 106, 173), 1px 1px 0 rgb(62, 106, 173), 1px -1px 0 rgb(62, 106, 173), -1px 1px 0 rgb(62, 106, 173), -1px -1px 0 rgb(62, 106, 173), 0px 2px 0 rgb(62, 106, 173), 0px -2px 0 rgb(62, 106, 173), 2px 0px 0 rgb(62, 106, 173), -2px 0px 0 rgb(62, 106, 173), 2px 2px 0 rgb(62, 106, 173), 2px -2px 0 rgb(62, 106, 173), -2px 2px 0 rgb(62, 106, 173), -2px -2px 0 rgb(62, 106, 173), 0px 3px 0 rgb(62, 106, 173), 0px -3px 0 rgb(62, 106, 173), 3px 0px 0 rgb(62, 106, 173), -3px 0px 0 rgb(62, 106, 173), 3px 3px 0 rgb(62, 106, 173), 3px -3px 0 rgb(62, 106, 173), -3px 3px 0 rgb(62, 106, 173), -3px -3px 0 rgb(62, 106, 173);
+  -moz-text-shadow: 0px 1px 0 rgb(62, 106, 173), 0px -1px 0 rgb(62, 106, 173), 1px 0px 0 rgb(62, 106, 173), -1px 0px 0 rgb(62, 106, 173), 1px 1px 0 rgb(62, 106, 173), 1px -1px 0 rgb(62, 106, 173), -1px 1px 0 rgb(62, 106, 173), -1px -1px 0 rgb(62, 106, 173), 0px 2px 0 rgb(62, 106, 173), 0px -2px 0 rgb(62, 106, 173), 2px 0px 0 rgb(62, 106, 173), -2px 0px 0 rgb(62, 106, 173), 2px 2px 0 rgb(62, 106, 173), 2px -2px 0 rgb(62, 106, 173), -2px 2px 0 rgb(62, 106, 173), -2px -2px 0 rgb(62, 106, 173), 0px 3px 0 rgb(62, 106, 173), 0px -3px 0 rgb(62, 106, 173), 3px 0px 0 rgb(62, 106, 173), -3px 0px 0 rgb(62, 106, 173), 3px 3px 0 rgb(62, 106, 173), 3px -3px 0 rgb(62, 106, 173), -3px 3px 0 rgb(62, 106, 173), -3px -3px 0 rgb(62, 106, 173);
+  font-size: 30px;
+  padding: 5px;
+  text-transform: capitalize;
+}
+
+p {
+  color: #292929;
+}

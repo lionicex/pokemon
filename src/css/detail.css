@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 60px;
+}
+
+.containerDetail {
+  position: relative;
+  display: block;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  margin: 60px;
+  border: 2px #3E6AAD solid;
+  border-radius: 4px;
+  box-shadow: 0 14px 28px rgba(248, 204, 71, 0.25), 0 10px 10px rgba(248, 204, 71, 0.22);
+}
+
+ion-icon {
+  font-size: 25px;
+  color: #3E6AAD
+}
+
+.close {
+  display: grid;
+  position: absolute;
+  right: 20px;
+}
+
+.link {
+  text-decoration: none !important;
+}
+
+.image {
+  position: relative;
+  width: 100%;
+}
+
+.imageContent {
+  display: inline-grid;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.titleContent {
+  display: contents;
+}
+
+.dataContent {
+  text-align: left;
+  padding: 20px;
+  line-height: 40px;
+}
